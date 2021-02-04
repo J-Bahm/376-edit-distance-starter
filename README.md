@@ -1,7 +1,9 @@
 # 376 HW 2 Problem 5d: Starter Code
-We have provided both Python and C++ starter code for problem 5d. To download them, either locate them on Canvas under the Files &rarr; HW &rarr 2-5-edit-distance folder, or clone the repository via your terminal: 
+We have provided both Python and C++ starter code for problem 5d. To download them, either locate them on Canvas under the Files &rarr; HW &rarr; 2-5-edit-distance folder, or clone the repository via your terminal: 
 
-`git clone https://github.com/xumaple/376-edit-distance-starter`
+```bash
+git clone https://github.com/xumaple/376-edit-distance-starter
+```
 
 In both cases there are comments that highlight what you need to add.  Both starter programs should run and output zero without changes. We've also provided some input files that you'll need: macbeth.txt and hamilton.txt.
 
