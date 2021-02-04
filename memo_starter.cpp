@@ -64,7 +64,7 @@ int edit_distance(std::string s1, std::string s2) {
         return EMPTY_COST; // TODO: replace <EMPTY_COST> with something meaningful
     }
 
-    if (memo[a - 1][b - 1] == <EMPTY_COST>)
+    if (memo[a - 1][b - 1] == EMPTY_COST)
         memo[a - 1][b - 1] = edit_distance(rem_last(s1), rem_last(s2));
 
     // TODO: Fill in additional code here
